@@ -1,1 +1,4 @@
 # COVID-19_DASHBOARD_VISUALIZATION
+
+
+DISCLAIMER: This is a very complex topic and situation right now. If you are new to data visualization, this tutorial will help you build your skills, but that does not mean you should then be sharing all the COVID-19 visualizations you create. Leave that to experts, many of whom have already done this. COVID-19 data is not a “cool new dataset” to play with and data visualizations in this context MUST NOT be misleading, inaccurate, or incite panic. Each data point represents a person. Responsible and sensitive visualizations are essential. Epidemiology is also a complex area; fully understanding the data, statistics and visualizations is critical to producing and sharing useful and effective visualizations on this topic. So we recommend that for beginners you create visualizations, such as the one created in this tutorial, for just yourself, for your own learning. 
