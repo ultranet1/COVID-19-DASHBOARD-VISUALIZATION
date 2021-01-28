@@ -8,3 +8,4 @@ COVID-19 data is not a “cool new dataset” to play with and data visualizatio
 
 
 SPECIAL THANKS to University of Toronto Library.
+https://mdl.library.utoronto.ca/technology/tutorials/creating-tableau-dashboard-using-covid-19-data-intermediate
